@@ -1,0 +1,16 @@
+﻿.DK {
+    width: 40%;
+    position: fixed;
+    left: 25%;
+    top: 140px;
+    background-color: #00d27f;
+    color: #fff;
+    display: none;
+}
+button[type="reset"]
+{
+    color:#999 !important;
+}
+legend {
+    color: #FFF;
+}
